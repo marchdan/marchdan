@@ -1,7 +1,7 @@
 # Daniel Philip Ackermans
-*B.S. Computer Science & Music*
+> &nbsp;*B.S. Computer Science & Music*
 
-*M.S. Cognitive Science*
+> &nbsp;*M.S. Cognitive Science*
 
 <!--
 **marchdan/marchdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
