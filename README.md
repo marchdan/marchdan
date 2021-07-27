@@ -9,6 +9,7 @@
 
 ## My projects
 - [YACS](https://github.com/YACS-RCOS/yacs.n)
+- [Game of Life](https://github.com/marchdan/GameOfLife-COVID19)
 
 <!--
 **marchdan/marchdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
